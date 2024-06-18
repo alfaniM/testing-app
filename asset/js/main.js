@@ -12,7 +12,7 @@ $(document).on('click', '#tombolPopup', function (e) {
     e.preventDefault();
     Swal.fire({
         icon: 'info',
-        title: 'Halo Pacarku',
+        title: 'Halo Bopungku',
         text: 'Aku ada pertanyaan nih buat kamu',
         showClass: {
             popup: 'animate__animated animate__tada'
